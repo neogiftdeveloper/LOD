@@ -1,0 +1,12 @@
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Admin\bin\Debug\DoorLock_Admin.exe.config
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Admin\bin\Debug\DoorLock_Admin.exe
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Admin\bin\Debug\DoorLock_Admin.pdb
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Admin\bin\Debug\DoorLock_Library.dll
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Admin\bin\Debug\DoorLock_Library.pdb
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Admin\obj\Debug\DoorLock_Admin.csprojAssemblyReference.cache
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Admin\obj\Debug\DoorLock_Admin.Form1.resources
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Admin\obj\Debug\DoorLock_Admin.Properties.Resources.resources
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Admin\obj\Debug\DoorLock_Admin.csproj.GenerateResource.cache
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Admin\obj\Debug\DoorLock_Admin.csproj.CopyComplete
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Admin\obj\Debug\DoorLock_Admin.exe
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Admin\obj\Debug\DoorLock_Admin.pdb

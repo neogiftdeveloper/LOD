@@ -1,0 +1,7 @@
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Library\bin\Release\netstandard2.0\DoorLock_Library.deps.json
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Library\bin\Release\netstandard2.0\DoorLock_Library.dll
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Library\bin\Release\netstandard2.0\DoorLock_Library.pdb
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Library\obj\Release\netstandard2.0\DoorLock_Library.AssemblyInfoInputs.cache
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Library\obj\Release\netstandard2.0\DoorLock_Library.AssemblyInfo.cs
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Library\obj\Release\netstandard2.0\DoorLock_Library.dll
+C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Library\obj\Release\netstandard2.0\DoorLock_Library.pdb
