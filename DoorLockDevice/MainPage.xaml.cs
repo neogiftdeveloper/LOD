@@ -33,7 +33,7 @@ namespace DoorLockDevice
         private GpioPin pinAltera;
         private GpioPinValue pinDoorValue;
         private GpioPinValue pinAlteraValue;
-
+        private GpioController gpio = GpioController.GetDefault();
         public MainPage()
         {
             this.InitializeComponent();
@@ -43,10 +43,12 @@ namespace DoorLockDevice
 
             this.APIConnection = new PublicApiConnectionHelper();
 
+            
             DispatcherTimer dt = new DispatcherTimer();
 
             dt.Interval = TimeSpan.FromSeconds(1);
             dt.Tick += DT_Tick;
+            dt.Start();
 
             this.InitGPIO();
         }
@@ -61,20 +63,27 @@ namespace DoorLockDevice
                 if (DoorData._DoorState == true)
                 {
                     this.StateDisplay_TextBlock.Text = "Door Opened";
-                    pinAlteraValue = GpioPinValue.Low;
-                    pinDoorValue = GpioPinValue.Low;
+                    if (this.gpio != null)
+                    {
+                        pinAlteraValue = GpioPinValue.Low;
+                        pinDoorValue = GpioPinValue.Low;
 
-                    pinAltera.Write(pinAlteraValue);
-                    pinDoor.Write(pinDoorValue);
+                        pinAltera.Write(pinAlteraValue);
+                        pinDoor.Write(pinDoorValue);
+                    }
                 }
                 else
                 {
                     this.StateDisplay_TextBlock.Text = "Door Closed";
-                    pinAlteraValue = GpioPinValue.High;
-                    pinDoorValue = GpioPinValue.High;
 
-                    pinAltera.Write(pinAlteraValue);
-                    pinDoor.Write(pinDoorValue);
+                    if (this.gpio != null)
+                    {
+                        pinAlteraValue = GpioPinValue.High;
+                        pinDoorValue = GpioPinValue.High;
+
+                        pinAltera.Write(pinAlteraValue);
+                        pinDoor.Write(pinDoorValue);
+                    }
                 }
             }
 
@@ -83,7 +92,7 @@ namespace DoorLockDevice
 
         private void InitGPIO()
         {
-            var gpio = GpioController.GetDefault();
+            
 
             // Show an error if there is no GPIO controller
             if (gpio == null)

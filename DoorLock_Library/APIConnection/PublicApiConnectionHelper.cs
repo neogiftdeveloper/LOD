@@ -74,7 +74,7 @@ namespace DoorLock_Library.APIConnection
         {
             try
             {
-                string path = $"v1/public/updatedoorstate";
+                string path = $"v1/public/UpdateDoorState";
 
                 using (HttpResponseMessage response = await ApiHelper.ApiClient.PostAsync(path, data, new System.Net.Http.Formatting.JsonMediaTypeFormatter()))
                 {

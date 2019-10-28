@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>247c2c23-df44-4188-a04c-86832e0750d4</PackageIdentityName>
     <PackageIdentityPublisher>CN=NEO DEVELOPER</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\06.Project\DoorLock\DoorLockDevice\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\06.Project\DoorLock\DoorLockDevice\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\06.Project\DoorLock\DoorLockDevice\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\bin\x86\Debug\DoorLockDevice.exe">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\bin\x86\Debug\DoorLockDevice.exe">
       <PackagePath>entrypoint\DoorLockDevice.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\NEO DEVELOPER\.nuget\packages\dapper\2.0.30\lib\netstandard2.0\Dapper.dll">
@@ -37,7 +37,7 @@
     <AppxPackagedFile Include="C:\Users\NEO DEVELOPER\.nuget\packages\microsoft.bcl.asyncinterfaces\1.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
       <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\NEO DEVELOPER\.nuget\packages\newtonsoft.json\10.0.1\lib\netstandard1.3\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\NEO DEVELOPER\.nuget\packages\newtonsoft.json\12.0.2\lib\netstandard2.0\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\NEO DEVELOPER\.nuget\packages\newtonsoft.json.bson\1.0.1\lib\netstandard1.3\Newtonsoft.Json.Bson.dll">
@@ -58,58 +58,58 @@
     <AppxPackagedFile Include="C:\Users\NEO DEVELOPER\.nuget\packages\system.text.json\4.6.0\lib\netstandard2.0\System.Text.Json.dll">
       <PackagePath>System.Text.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLock_UnvversalLibrary\bin\Debug\DoorLock_UnvversalLibrary.dll">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\bin\Debug\DoorLock_UnvversalLibrary.dll">
       <PackagePath>DoorLock_UnvversalLibrary.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\bin\x86\Debug\DoorLockDevice.xr.xml">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\bin\x86\Debug\DoorLockDevice.xr.xml">
       <PackagePath>DoorLockDevice.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\06.Project\DoorLock\DoorLockDevice\bin\x86\Debug\Core\DoorLockDevice.exe">
+    <AppxPackagedFile Include="D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\bin\x86\Debug\Core\DoorLockDevice.exe">
       <PackagePath>DoorLockDevice.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

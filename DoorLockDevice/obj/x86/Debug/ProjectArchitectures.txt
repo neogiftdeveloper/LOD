@@ -1,2 +1,2 @@
-D:\06.Project\DoorLock\DoorLock_UnvversalLibrary\DoorLock_UnvversalLibrary.csproj;neutral
-D:\06.Project\DoorLock\DoorLockDevice\DoorLockDevice.csproj;x86
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\DoorLock_UnvversalLibrary.csproj;neutral
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLockDevice\DoorLockDevice.csproj;x86

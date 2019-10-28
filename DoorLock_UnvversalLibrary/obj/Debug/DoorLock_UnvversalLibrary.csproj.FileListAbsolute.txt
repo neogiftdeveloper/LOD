@@ -21,3 +21,26 @@ D:\06.Project\DoorLock\DoorLock_UnvversalLibrary\obj\Debug\pri.resfiles.intermed
 D:\06.Project\DoorLock\DoorLock_UnvversalLibrary\obj\Debug\qualifiers.txt
 D:\06.Project\DoorLock\DoorLock_UnvversalLibrary\obj\Debug\qualifiers.txt.intermediate
 D:\06.Project\DoorLock\DoorLock_UnvversalLibrary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\bin\Debug\DoorLock_UnvversalLibrary.dll
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\bin\Debug\DoorLock_UnvversalLibrary.pdb
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\bin\Debug\DoorLock_UnvversalLibrary.pri
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\DoorLock_UnvversalLibrary.csprojAssemblyReference.cache
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\DoorLock_UnvversalLibrary.csproj.CopyComplete
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\DoorLock_UnvversalLibrary.dll
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\DoorLock_UnvversalLibrary.pdb
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\priconfig.xml
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\priconfig.xml.intermediate
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\unfiltered.layout.resfiles
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\unfiltered.layout.resfiles.intermediate
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\filtered.layout.resfiles
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\filtered.layout.resfiles.intermediate
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\excluded.layout.resfiles
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\excluded.layout.resfiles.intermediate
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\resources.resfiles
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\resources.resfiles.intermediate
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\pri.resfiles
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\pri.resfiles.intermediate
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\qualifiers.txt
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\qualifiers.txt.intermediate
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_UnvversalLibrary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
