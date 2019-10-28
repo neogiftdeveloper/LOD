@@ -5,3 +5,11 @@ D:\06.Project\DoorLock\DoorLock_Library\bin\Debug\netstandard2.0\DoorLock_Librar
 D:\06.Project\DoorLock\DoorLock_Library\bin\Debug\netstandard2.0\DoorLock_Library.pdb
 D:\06.Project\DoorLock\DoorLock_Library\obj\Debug\netstandard2.0\DoorLock_Library.dll
 D:\06.Project\DoorLock\DoorLock_Library\obj\Debug\netstandard2.0\DoorLock_Library.pdb
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_Library\bin\Debug\netstandard2.0\DoorLock_Library.deps.json
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_Library\bin\Debug\netstandard2.0\DoorLock_Library.dll
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_Library\bin\Debug\netstandard2.0\DoorLock_Library.pdb
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_Library\obj\Debug\netstandard2.0\DoorLock_Library.csprojAssemblyReference.cache
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_Library\obj\Debug\netstandard2.0\DoorLock_Library.AssemblyInfoInputs.cache
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_Library\obj\Debug\netstandard2.0\DoorLock_Library.AssemblyInfo.cs
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_Library\obj\Debug\netstandard2.0\DoorLock_Library.dll
+D:\06.Project\02.PHILOSOPHY TECHNOLOGY\01.VERSION CONTROL\LOD\DoorLock_Library\obj\Debug\netstandard2.0\DoorLock_Library.pdb

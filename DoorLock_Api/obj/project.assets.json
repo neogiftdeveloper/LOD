@@ -12436,7 +12436,9 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "Dapper >= 2.0.30",
       "DoorLock_Library >= 1.0.0",
+      "Microsoft.AspNet.WebApi.Client >= 5.2.7",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0"
@@ -12450,11 +12452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\06.Project\\DoorLock\\DoorLock_Api\\DoorLock_Api.csproj",
+      "projectUniqueName": "D:\\06.Project\\02.PHILOSOPHY TECHNOLOGY\\01.VERSION CONTROL\\LOD\\DoorLock_Api\\DoorLock_Api.csproj",
       "projectName": "DoorLock_Api",
-      "projectPath": "D:\\06.Project\\DoorLock\\DoorLock_Api\\DoorLock_Api.csproj",
+      "projectPath": "D:\\06.Project\\02.PHILOSOPHY TECHNOLOGY\\01.VERSION CONTROL\\LOD\\DoorLock_Api\\DoorLock_Api.csproj",
       "packagesPath": "C:\\Users\\NEO DEVELOPER\\.nuget\\packages\\",
-      "outputPath": "D:\\06.Project\\DoorLock\\DoorLock_Api\\obj\\",
+      "outputPath": "D:\\06.Project\\02.PHILOSOPHY TECHNOLOGY\\01.VERSION CONTROL\\LOD\\DoorLock_Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",
@@ -12475,8 +12477,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\06.Project\\DoorLock\\DoorLock_Library\\DoorLock_Library.csproj": {
-              "projectPath": "D:\\06.Project\\DoorLock\\DoorLock_Library\\DoorLock_Library.csproj"
+            "D:\\06.Project\\02.PHILOSOPHY TECHNOLOGY\\01.VERSION CONTROL\\LOD\\DoorLock_Library\\DoorLock_Library.csproj": {
+              "projectPath": "D:\\06.Project\\02.PHILOSOPHY TECHNOLOGY\\01.VERSION CONTROL\\LOD\\DoorLock_Library\\DoorLock_Library.csproj"
             }
           }
         }
@@ -12490,6 +12492,14 @@
     "frameworks": {
       "netcoreapp2.2": {
         "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.0.30, )"
+          },
+          "Microsoft.AspNet.WebApi.Client": {
+            "target": "Package",
+            "version": "[5.2.7, )"
+          },
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",

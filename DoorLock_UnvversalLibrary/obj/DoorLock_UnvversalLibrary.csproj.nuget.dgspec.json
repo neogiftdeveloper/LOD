@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\06.Project\\DoorLock\\DoorLock_UnvversalLibrary\\DoorLock_UnvversalLibrary.csproj": {}
+    "D:\\06.Project\\02.PHILOSOPHY TECHNOLOGY\\01.VERSION CONTROL\\LOD\\DoorLock_UnvversalLibrary\\DoorLock_UnvversalLibrary.csproj": {}
   },
   "projects": {
-    "D:\\06.Project\\DoorLock\\DoorLock_UnvversalLibrary\\DoorLock_UnvversalLibrary.csproj": {
+    "D:\\06.Project\\02.PHILOSOPHY TECHNOLOGY\\01.VERSION CONTROL\\LOD\\DoorLock_UnvversalLibrary\\DoorLock_UnvversalLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\06.Project\\DoorLock\\DoorLock_UnvversalLibrary\\DoorLock_UnvversalLibrary.csproj",
+        "projectUniqueName": "D:\\06.Project\\02.PHILOSOPHY TECHNOLOGY\\01.VERSION CONTROL\\LOD\\DoorLock_UnvversalLibrary\\DoorLock_UnvversalLibrary.csproj",
         "projectName": "DoorLock_UnvversalLibrary",
-        "projectPath": "D:\\06.Project\\DoorLock\\DoorLock_UnvversalLibrary\\DoorLock_UnvversalLibrary.csproj",
+        "projectPath": "D:\\06.Project\\02.PHILOSOPHY TECHNOLOGY\\01.VERSION CONTROL\\LOD\\DoorLock_UnvversalLibrary\\DoorLock_UnvversalLibrary.csproj",
         "packagesPath": "C:\\Users\\NEO DEVELOPER\\.nuget\\packages\\",
-        "outputPath": "D:\\06.Project\\DoorLock\\DoorLock_UnvversalLibrary\\obj\\",
+        "outputPath": "D:\\06.Project\\02.PHILOSOPHY TECHNOLOGY\\01.VERSION CONTROL\\LOD\\DoorLock_UnvversalLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
