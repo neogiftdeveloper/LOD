@@ -1,19 +1,19 @@
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\bin\Debug\netcoreapp2.2\appsettings.json
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Api.deps.json
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Api.runtimeconfig.json
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Api.runtimeconfig.dev.json
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Api.dll
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Api.pdb
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Library.dll
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Library.pdb
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.csprojAssemblyReference.cache
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.RazorAssemblyInfo.cache
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.RazorAssemblyInfo.cs
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.AssemblyInfoInputs.cache
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.AssemblyInfo.cs
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.RazorTargetAssemblyInfo.cache
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.csproj.CopyComplete
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.dll
-C:\Users\NEO DEVELOPER\source\repos\DoorLockProject\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.pdb
+D:\06.Project\DoorLock\DoorLock_Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\06.Project\DoorLock\DoorLock_Api\bin\Debug\netcoreapp2.2\appsettings.json
+D:\06.Project\DoorLock\DoorLock_Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\06.Project\DoorLock\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Api.deps.json
+D:\06.Project\DoorLock\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Api.runtimeconfig.json
+D:\06.Project\DoorLock\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Api.runtimeconfig.dev.json
+D:\06.Project\DoorLock\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Api.dll
+D:\06.Project\DoorLock\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Api.pdb
+D:\06.Project\DoorLock\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Library.dll
+D:\06.Project\DoorLock\DoorLock_Api\bin\Debug\netcoreapp2.2\DoorLock_Library.pdb
+D:\06.Project\DoorLock\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.csprojAssemblyReference.cache
+D:\06.Project\DoorLock\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.RazorAssemblyInfo.cache
+D:\06.Project\DoorLock\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.RazorAssemblyInfo.cs
+D:\06.Project\DoorLock\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.AssemblyInfoInputs.cache
+D:\06.Project\DoorLock\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.AssemblyInfo.cs
+D:\06.Project\DoorLock\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.RazorTargetAssemblyInfo.cache
+D:\06.Project\DoorLock\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.csproj.CopyComplete
+D:\06.Project\DoorLock\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.dll
+D:\06.Project\DoorLock\DoorLock_Api\obj\Debug\netcoreapp2.2\DoorLock_Api.pdb

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Net.Http;
+using System.Net;
 
 
 using DoorLock_Library.DataBaseConnection.classes;
@@ -41,7 +42,7 @@ namespace DoorLock_Library.APIConnection
             {
                 string path = $"v1/public/getdoor";
 
-                using (HttpResponseMessage response = await SMSApiHelper.ApiClient.GetAsync(path))
+                using (HttpResponseMessage response = await ApiHelper.ApiClient.GetAsync(path))
                 {
                     if (response.IsSuccessStatusCode)
                     {
@@ -96,32 +97,7 @@ namespace DoorLock_Library.APIConnection
             }
         }
 
-        public async Task<SmsResulats_Model> SendSMSes(SMS_Model data, string username,  string password, string authkey)
-        {
-            try
-            {
-                string path = $"v1/public/sendotp?username={username}&password={password}&apitoken={authkey}";
-
-                using (HttpResponseMessage response = await ApiHelper.ApiClient.PostAsync(path, data, new System.Net.Http.Formatting.JsonMediaTypeFormatter()))
-                {
-                    if (response.IsSuccessStatusCode)
-                    {
-                        var results = await response.Content.ReadAsAsync<SmsResulats_Model>();
-
-                        return results;
-                    }
-                    else
-                    {
-                        throw new Exception(response.ReasonPhrase);
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-                return null;
-            }
-        }
+       
 
         #endregion
     }

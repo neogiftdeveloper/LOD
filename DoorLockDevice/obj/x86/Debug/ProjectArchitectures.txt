@@ -1,0 +1,2 @@
+D:\06.Project\DoorLock\DoorLock_UnvversalLibrary\DoorLock_UnvversalLibrary.csproj;neutral
+D:\06.Project\DoorLock\DoorLockDevice\DoorLockDevice.csproj;x86

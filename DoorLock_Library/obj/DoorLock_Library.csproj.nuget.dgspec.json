@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NEO DEVELOPER\\source\\repos\\DoorLockProject\\DoorLock_Library\\DoorLock_Library.csproj": {}
+    "D:\\06.Project\\DoorLock\\DoorLock_Library\\DoorLock_Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NEO DEVELOPER\\source\\repos\\DoorLockProject\\DoorLock_Library\\DoorLock_Library.csproj": {
+    "D:\\06.Project\\DoorLock\\DoorLock_Library\\DoorLock_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NEO DEVELOPER\\source\\repos\\DoorLockProject\\DoorLock_Library\\DoorLock_Library.csproj",
+        "projectUniqueName": "D:\\06.Project\\DoorLock\\DoorLock_Library\\DoorLock_Library.csproj",
         "projectName": "DoorLock_Library",
-        "projectPath": "C:\\Users\\NEO DEVELOPER\\source\\repos\\DoorLockProject\\DoorLock_Library\\DoorLock_Library.csproj",
+        "projectPath": "D:\\06.Project\\DoorLock\\DoorLock_Library\\DoorLock_Library.csproj",
         "packagesPath": "C:\\Users\\NEO DEVELOPER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NEO DEVELOPER\\source\\repos\\DoorLockProject\\DoorLock_Library\\obj\\",
+        "outputPath": "D:\\06.Project\\DoorLock\\DoorLock_Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",
@@ -62,6 +62,14 @@
               "version": "[12.0.2, )"
             },
             "Npgsql": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Npgsql.Json.NET": {
               "target": "Package",
               "version": "[4.1.1, )"
             }

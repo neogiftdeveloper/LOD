@@ -1,0 +1,11 @@
+D:\06.Project\DoorLock\DoorLock\obj\Debug\DoorLock.csprojAssemblyReference.cache
+D:\06.Project\DoorLock\DoorLock\obj\Debug\DoorLock.Properties.Resources.resources
+D:\06.Project\DoorLock\DoorLock\obj\Debug\DoorLock.csproj.GenerateResource.cache
+D:\06.Project\DoorLock\DoorLock\bin\Debug\DoorLock.exe.config
+D:\06.Project\DoorLock\DoorLock\bin\Debug\DoorLock.exe
+D:\06.Project\DoorLock\DoorLock\bin\Debug\DoorLock.pdb
+D:\06.Project\DoorLock\DoorLock\bin\Debug\DoorLock_Library.dll
+D:\06.Project\DoorLock\DoorLock\bin\Debug\DoorLock_Library.pdb
+D:\06.Project\DoorLock\DoorLock\obj\Debug\DoorLock.csproj.CopyComplete
+D:\06.Project\DoorLock\DoorLock\obj\Debug\DoorLock.exe
+D:\06.Project\DoorLock\DoorLock\obj\Debug\DoorLock.pdb
